@@ -3,8 +3,9 @@
 # What is this for?
 The purpose of this repository is to share data management and analysis code, Read code lists, and full modelled risk estimates for the study: "Underlying cancer risk among patients with fatigue and other vague symptoms in primary care: a population-based cohort study" by Becky White, Dr. Cristina Renzi, Dr. Matthew Barclay, Prof. Georgios Lyratzopoulos.
 
-# How was it created?
-Full methods will be available in an upcoming publication.
+# Where can I get more information?
+This study has been published in the peer reviewed journal, British Journal of General Practice:
+White, B., Renzi, C., Barclay, M., & Lyratzopoulos, G. (2023). Underlying cancer risk among patients with fatigue and other vague symptoms: a population-based cohort study in primary care. British Journal of General Practice, BJGP.2022.0371. https://doi.org/10.3399/BJGP.2022.0371
 
 # What is included?
 - Code list folder: <br/>
